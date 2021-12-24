@@ -3,8 +3,8 @@
 # [Be aware this is a fork of "Scratch For Discord" editied for our own use!](https://github.com/Androz2091/scratch-for-discord)
 
 # Credits
- Scratch For Discord
- Google Blocky
+ Scratch For Discord,
+ Google Blocky,
  Discord.js
  
  # Features
