@@ -8,7 +8,7 @@
  Discord.js
  
  # Features
- # Discord Bot Creator (Supports JS for now)
+ Discord Bot Creator (Supports JS for now)
 
 # Planned Features
  Game Creation
