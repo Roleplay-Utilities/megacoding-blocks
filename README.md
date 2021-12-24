@@ -11,6 +11,6 @@
  Discord Bot Creator (Supports JS for now)
 
 # Planned Features
- Game Creation
- App Creation
+ Game Creation,
+ App Creation,
  Website Creation
