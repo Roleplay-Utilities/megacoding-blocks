@@ -1,8 +1,8 @@
 <template>
     <b-navbar toggleable="lg" type="dark" style="background-color:#161719;user-select:none;" id="navbar nav-main">
         <b-navbar-brand>
-            <img src="scratch.png" width="40" draggable="false">
-            Scratch For Discord
+            <img src="6923-pastel-bot.png" width="40" draggable="false">
+            MegaCoding-blocks
         </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -14,7 +14,7 @@
                 <EditMenu></EditMenu>
                 <LanguageMenu></LanguageMenu>
                 <ExamplesMenu></ExamplesMenu>
-                <b-nav-item href="https://androz2091.gitbook.io/scratch-for-discord/" target="_blank">{{ $t('help') }}</b-nav-item>
+                <b-nav-item href="https://hoopcolton14.gitbook.io/roleplayutilities/mega-coding/mega-coding" target="_blank">{{ $t('help') }}</b-nav-item>
             </b-navbar-nav>
             <b-navbar-nav class="ml-auto">
                 <RunModal></RunModal>
